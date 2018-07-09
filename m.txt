@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 sdfdsfsd
 =======
 sdfseee
@@ -7,3 +8,6 @@ sdfseee
 =======
 sdfseee
 >>>>>>> x2n
+=======
+sdfdsfsd
+>>>>>>> parent of aa28c24... Merge branch 'x2n'
