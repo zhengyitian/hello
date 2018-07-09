@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sdfdsfsd
+=======
+sdfseee
+>>>>>>> x2n
